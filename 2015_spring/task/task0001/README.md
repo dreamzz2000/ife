@@ -212,7 +212,7 @@
 - `blog.html`：对应`task0001_2`及`task0001_2_marked`设计稿
 - `gallery.html`：对应`task0001_3`及`task0001_3_marked`设计稿
 - `about.html`：对应`task0001_4`及`task0001_4_marked`设计稿
- 
+
 再创建一个`css`目录，在`css`目录中创建一个`style.css`用于编写样式。
 
 再创建一个`img`目录，用于存放页面编写中会使用到的图片。
